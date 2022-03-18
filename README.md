@@ -1,6 +1,8 @@
 Hi 👋 My name is Adarsh Gupta
 =============================
 
+![](assets/giphy.gif)
+
 Developer who eats sleeps walks in JavaScript
 ---------------------------------------------
 
