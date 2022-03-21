@@ -19,8 +19,7 @@ src="https://img.shields.io/twitter/follow/adarsh____gupta?logo=twitter&style=fo
 /></a><a href="https://www.github.com/adarsh-gupta101" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/adarsh-gupta101?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=adarsh-gupta101.visitor-badge)
-
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fadarsh-gupta101&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fadarsh-gupta101)
 
 ### Skills
 
