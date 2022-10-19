@@ -12,7 +12,7 @@ I love to build X, I am a developer who eats javascript, sells React, and Loves 
 * 🚀  I'm currently working on [Building My Twitter](http://twitter.com/adarsh____gupta)
 * 🧠  I'm learning THREEJS
 * 🤝  I'm open to collaborating on VR/AR , 3D websites ,Regular websites
-* ⚡  Remove JavaScript from my life, am done
+* ⚡  Learning, Building, Documenting
 
 <a href="https://www.twitter.com/adarsh____gupta" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/adarsh____gupta?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
