@@ -1,4 +1,4 @@
-Hi 👋 I'm Adarsh Gupta
+Hi 👋 I'm Adarsh Gupta!
 =============================
 
 ![](assets/giphy.gif)
