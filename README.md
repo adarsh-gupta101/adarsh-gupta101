@@ -3,7 +3,7 @@ Hi 👋 I'm Adarsh Gupta!
 
 ![](assets/giphy.gif)
 
-Developer who eats, sleeps, walks in JavaScript
+Developer who eats, sleeps, walks in JavaScript.
 ---------------------------------------------
 
 I love to build X, I am a developer who eats javascript, sells React, and Loves Node.But these days I am more fancy of Threejs.
