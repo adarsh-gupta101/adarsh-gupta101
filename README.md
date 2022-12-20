@@ -6,11 +6,11 @@ Hi 👋 I'm Adarsh Gupta!
 Developer who eats, sleeps, walks in JavaScript.
 ---------------------------------------------
 
-I love to build X, I am a developer who eats javascript, sells React, and Loves Node.But these days I am more fancy of Threejs.
+I love to build Stuffs online, I am a developer who eats javascript, sells React, and Loves Node.But these days I am more fancy of Threejs.
 
 * 🌍  I'm based in India
-* 🚀  I'm currently working on [Building My Twitter](http://twitter.com/adarsh____gupta)
-* 🧠  I'm learning THREEJS
+* 🚀  I'm currently working on [Building My Twitter](http://twitter.com/adarsh____gupta) 
+* 🧠  I'm learning DevOps, ML , Web3
 * 🤝  I'm open to collaborating on VR/AR , 3D websites ,Regular websites
 * ⚡  Learning, Building, Documenting
 
