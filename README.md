@@ -1,7 +1,7 @@
 Hi 👋 I'm Adarsh Gupta!
 =============================
 
-![](assets/giphy.gif)
+![]("https://pbs.twimg.com/profile_images/1669350664529670146/eVKk-xyU_400x400.jpg")
 
 Developer who eats, sleeps, walks in JavaScript.
 ---------------------------------------------
