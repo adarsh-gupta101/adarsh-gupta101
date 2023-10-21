@@ -6,13 +6,14 @@ Hi 👋 I'm Adarsh Gupta!
 Developer who eats, sleeps, walks in JavaScript.
 ---------------------------------------------
 
-I love to build Stuffs online, I am a developer who eats javascript, sells React, and Loves Node.But these days I am more fancy of Threejs.
+~~I love to build Stuffs online, I am a developer who eats javascript, sells React, and Loves Node.But these days I am more fancy of Threejs.~~
+<h4>Trying to figure out what I actually wanna do in life</h4>
 
 * 🌍  I'm based in India
-* 🚀  I'm currently working on some freelance projects
-* 🧠  I'm learning DevOps, ML , Web3
-* 🤝  I'm open to collaborating on VR/AR , 3D websites ,Regular websites
-* ⚡  Learning, Building, Documenting
+* 🚀  I'm currently working on some freelance projects and blogs
+* 🧠  I'm learning DevOps
+* 🤝  I'm open to collaborating on VR/AR , 3D websites etc
+* ⚡  Learning, 
 
 <a href="https://www.twitter.com/adarsh____gupta" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/adarsh____gupta?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
@@ -82,6 +83,3 @@ src="https://img.shields.io/github/followers/adarsh-gupta101?logo=github&style=f
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=adarsh____gupta&layout=wide)](https://twitter.com/adarsh____gupta)
 
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/Adarshgupta"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
