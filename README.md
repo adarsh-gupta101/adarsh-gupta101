@@ -81,4 +81,6 @@ src="https://img.shields.io/github/followers/adarsh-gupta101?logo=github&style=f
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=adarsh____gupta&layout=wide)](https://twitter.com/adarsh____gupta)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/gZXlEYWreN?theme=dark&font=Chilanka&ext=heatmap)
+
 
