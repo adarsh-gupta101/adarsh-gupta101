@@ -3,33 +3,30 @@ Hi 👋 I'm Adarsh Gupta!
 
 ![]("https://pbs.twimg.com/profile_images/1669350664529670146/eVKk-xyU_400x400.jpg")
 
-Developer who eats, sleeps, walks in JavaScript.
+Software Developer with Product Mindset
 ---------------------------------------------
 
-~~I love to build Stuffs online, I am a developer who eats javascript, sells React, and Loves Node.But these days I am more fancy of Threejs.~~
-<h4>Trying to figure out what I actually wanna do in life</h4>
+Full stack JavaScript developer with experience in React, React Native, AWS and other technologies
 
-* 🌍  I'm based in India
-* 🚀  I'm currently working on some freelance projects and blogs
-* 🧠  I'm learning DevOps
-* 🤝  I'm open to collaborating on VR/AR , 3D websites etc
-* ⚡  Learning, 
+<h4>Trying to help products build thier customer facing and infrastructure side</h4>
+
+* 🌍  I'm based in India.
+* 🚀  Working as Java developer at an MNC.
+* 🧠  Looking for development gigs: Fulltime (preferably) and partime.
+* 🤝  I'm open to collaborating software development (web & app) and devops projects.
+* ⚡  Learning and figuring out things now.
 
 <a href="https://www.twitter.com/adarsh____gupta" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/adarsh____gupta?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a><a href="https://www.github.com/adarsh-gupta101" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/adarsh-gupta101?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
-
-
-### Skills
-
 ### Skills
 
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<!--<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -74,13 +71,14 @@ src="https://img.shields.io/github/followers/adarsh-gupta101?logo=github&style=f
 <a href="http://www.github.com/adarsh-gupta101"><img src="https://github-readme-stats.vercel.app/api?username=adarsh-gupta101&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="adarsh-gupta101's GitHub stats" /></a>
 
 <a href="http://www.github.com/adarsh-gupta101"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-gupta101&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<!--
 <a href="http://www.github.com/adarsh-gupta101"><img src="https://activity-graph.herokuapp.com/graph?username=adarsh-gupta101&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+-->
 <a href="https://github.com/adarsh-gupta101" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-gupta101&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=adarsh____gupta&layout=wide)](https://twitter.com/adarsh____gupta)
+ <!--[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=adarsh____gupta&layout=wide)](https://twitter.com/adarsh____gupta)-->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/adarsh____gupta?theme=dark&font=Chilanka&ext=heatmap)
+<!--  ![LeetCode Stats](https://leetcard.jacoblin.cool/adarsh____gupta?theme=dark&font=Chilanka&ext=heatmap) -->
+
 
 
